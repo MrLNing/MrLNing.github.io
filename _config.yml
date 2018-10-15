@@ -1,6 +1,6 @@
 # Site settings
 title: 玉豪的购物车
-SEOTitle: 玉豪的博客 | 玉豪的购物车
+SEOTitle: 玉豪 | 玉豪的购物车
 header-img: img/post-bg-desk.jpg
 email: nliu.ginseng@gmail.com
 description: "只有想不到，没有买不到!"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/MrLNing/MrLNing.github.io" # you code repositor
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "心存感恩，无限突破!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/yuhao.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
